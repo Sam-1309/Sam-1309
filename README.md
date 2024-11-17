@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samruddhi Jumnalkar
 - 1st year Artificial intelligence & Data science Student 
 - 👀 I’m interested in Data Science , Data Anlyst , Machine Learning , Data Engineer
-- 🌱 I’m currently learning C programing , HTML 
+- 🌱 I’m currently learning C programing , CSS  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me My LinkedIn Profile (www.Linkdin.com/in/Samruddhijumnalkar)
 - 😄 Pronouns: She/her
